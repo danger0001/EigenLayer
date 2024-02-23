@@ -1,6 +1,6 @@
 operator:
-    address: ""
-    earnings_receiver_address: ""
+    address: "0xb16D00ce24B1598e4fCeDb7b2E51c0FFBe1c58a2"
+    earnings_receiver_address: "0xb16D00ce24B1598e4fCeDb7b2E51c0FFBe1c58a2"
     delegation_approver_address: ""
     staker_opt_out_window_blocks: 0
     metadata_url: ""
