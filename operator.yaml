@@ -3,7 +3,7 @@ operator:
   earnings_receiver_address: "0xb16D00ce24B1598e4fCeDb7b2E51c0FFBe1c58a2"
   delegation_approver_address: "0x0000000000000000000000000000000000000000"
   staker_opt_out_window_blocks: 0
-  metadata_url: URL_RAW_GITHUB
+  metadata_url: https://raw.githubusercontent.com/danger0001/EigenLayer/main/operator.yaml
 
 el_delegation_manager_address: 0x1b7b8F6b258f95Cf9596EabB9aa18B62940Eb0a8
 eth_rpc_url: https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161
